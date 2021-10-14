@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generics-collection-exercise/generics-collection-exercise.iml" filepath="$PROJECT_DIR$/generics-collection-exercise/generics-collection-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8-exercise.iml" filepath="$PROJECT_DIR$/java8-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-func-exercise/stream-func-exercise.iml" filepath="$PROJECT_DIR$/stream-func-exercise/stream-func-exercise.iml" />
+    </modules>
+  </component>
+</project>
